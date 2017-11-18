@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Lectures\Sem3\Pervasive Computing\EEGo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d41b8245f1a92d7470ad41a6718b96e48aa984c">
+        <dex dex="E:\Lectures\Sem3\Pervasive Computing\EEGo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_13d2d8af208aa0fe1835be2102cb10d82a363408\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Lectures\Sem3\Pervasive Computing\EEGo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Lectures\Sem3\Pervasive Computing\EEGo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0f5d172a0400117c34576b956691cb4f483c3dde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Lectures\Sem3\Pervasive Computing\EEGo\app\libs\libmuse_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff5869a43a5bebf2f95b7643cc818206bc3ccb22">
+        <dex dex="E:\Lectures\Sem3\Pervasive Computing\EEGo\app\build\intermediates\transforms\dex\debug\folders\1000\2\libmuse_android_b8ab50b7fa9813db9a94c66bd2a81ed13ca14402\classes.dex" />
+    </item>
+
+</items>
