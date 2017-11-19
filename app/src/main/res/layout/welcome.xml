@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TableLayout
+
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#606060"
+        android:gravity="center"
+        android:stretchColumns="0,1,2">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:fontFamily="Roboto-Regular"
+            android:paddingBottom="0dp"
+            android:text="I want to..."
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="73dp"
+            tools:layout_editor_absoluteY="24dp" />
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/learnmeditation"
+                android:fontFamily="Roboto-Regular"
+                android:gravity="center_horizontal"
+                android:lineSpacingExtra="10sp"
+                android:paddingBottom="4dp"
+                android:paddingRight="4dp"
+                android:paddingTop="4dp"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="18sp"
+                android:textStyle="normal"
+                tools:text="Learn
+Meditation" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/reducestress"
+                android:fontFamily="Roboto-Regular"
+                android:gravity="center_horizontal"
+                android:lineSpacingExtra="10sp"
+                android:paddingBottom="4dp"
+                android:paddingLeft="4dp"
+                android:paddingRight="4dp"
+                android:paddingTop="4dp"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="18sp"
+                android:textStyle="normal"
+                tools:text="Reduce Stress
+&amp; Anxiety" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/improvefocus"
+                android:fontFamily="Roboto-Regular"
+                android:gravity="center_horizontal"
+                android:lineSpacingExtra="10sp"
+                android:paddingBottom="4dp"
+                android:paddingRight="4dp"
+                android:paddingTop="4dp"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="18sp"
+                android:textStyle="normal"
+                tools:text="Improve Focus" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/sleepbetter"
+                android:fontFamily="Roboto-Regular"
+                android:gravity="center_horizontal"
+                android:lineSpacingExtra="10sp"
+                android:paddingBottom="4dp"
+                android:paddingRight="4dp"
+                android:paddingTop="4dp"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textSize="18sp"
+                android:textStyle="normal"
+                tools:text="Sleep Better" />
+
+
+        </TableRow>
+    </TableLayout>
+
+
+</android.support.constraint.ConstraintLayout>
